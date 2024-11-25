@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Em3ka/Fylo-data-storage)
-- Live Site URL: [Fylo landing page](https://your-live-site-url.com)
+- Live Site URL: [Fylo landing page](https://fylo-fem.netlify.app)
 
 ## My process
 
