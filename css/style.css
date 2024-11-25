@@ -213,16 +213,6 @@ img {
   }
 }
 
-@keyframes count {
-  from {
-    content: "0";
-  }
-
-  to {
-    content: "185";
-  }
-}
-
 /* Media Queries */
 @media (max-width: 48rem) {
   body {
